@@ -29,7 +29,7 @@ python-dotenv   	Secret management
 Here’s how to spin up this pipeline on your local machine:
 
 1. Clone the Repo
-git clone https://github.com/your-username/crypto-etl-pipeline.git
+git clone https://github.com/KellyKiprop/Crypto-price-pipeline.git
 cd crypto-etl-pipeline
 
 2. Set Up the Virtual Environment

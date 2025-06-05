@@ -1,4 +1,5 @@
-##Crypto ETL with Apache Airflow
+# 🪙 Crypto Price ETL Pipeline with Apache Airflow
+
 This is a dynamic data pipeline project designed to keep tabs on the ever-changing world of cryptocurrency. Using Apache Airflow, this ETL pipeline pulls hourly snapshots of key metrics like price, market cap, and trading volume for top digital assets — then loads them into a PostgreSQL time-series database for analysis.
 
 🌍 What This Project Does
